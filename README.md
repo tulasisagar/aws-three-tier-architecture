@@ -19,26 +19,8 @@ The infrastructure separates resources into different layers:
 The architecture uses public and private subnets across multiple Availability Zones to improve security and availability.
 
 ---
-## Structure
 
-aws-three-tier-architecture/
-│
-├── README.md
-│
-├── architecture/
-│   └── architecture-diagram.png
-│
-├── screenshots/
-│   ├── vpc.png
-│   ├── subnets.png
-│   ├── alb.png
-│   ├── asg.png
-│   ├── ec2.png
-│   ├── rds.png
-│   ├── cloudwatch.png
-│   └── s3.png
-
-## rchitecture Diagram
+## Architecture Diagram
 
 ![Architecture Diagram](architecture/architecture-diagram.png)
 
